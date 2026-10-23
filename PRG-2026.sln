@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 18
-VisualStudioVersion = 18.9.12020.428 insiders
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-zaklady", "01-zaklady\01-zaklady.csproj", "{53405C5F-2B4E-430A-AFB2-3E6504466479}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-podprogramy", "03-podprogramy\03-podprogramy.csproj", "{970DD114-22AC-4269-B793-F2699C9AF37A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-pole", "04-pole\04-pole.csproj", "{A7E6496A-C105-4EEC-ACCF-A87D4E697A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-manipulaceSPolem", "05-manipulaceSPolem\05-manipulaceSPolem.csproj", "{4B23D48B-A6D2-4DD2-A746-C1609738BE4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A7E6496A-C105-4EEC-ACCF-A87D4E697A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7E6496A-C105-4EEC-ACCF-A87D4E697A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7E6496A-C105-4EEC-ACCF-A87D4E697A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B23D48B-A6D2-4DD2-A746-C1609738BE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B23D48B-A6D2-4DD2-A746-C1609738BE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B23D48B-A6D2-4DD2-A746-C1609738BE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B23D48B-A6D2-4DD2-A746-C1609738BE4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
