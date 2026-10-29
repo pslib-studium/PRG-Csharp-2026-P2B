@@ -46,7 +46,9 @@ dotnet run --project 01-zaklady/01-zaklady.csproj
 |---|---|---|
 | [01 – Základy](01-zaklady/README.md) | Základní konstrukce C# | Proměnné, konzole, převody, podmínky, cykly, pole a číselné typy |
 | [02 – Operátory](02-operatory/README.md) | Operátory v C# | Aritmetické, bitové, porovnávací a logické operátory, priorita a nullable typy |
-| [03 – Podprogramy](03-podprogramy/README.md) | Podprogramy v C# | Podprogramy |
+| [03 – Podprogramy](03-podprogramy/README.md) | Podprogramy v C# | Parametry a návratové hodnoty, výchozí hodnoty parametrů, `return`, předávání hodnotou, `ref` a `out` |
+| [04 – Pole](04-pole/README.md) | Pole v C# | Vytvoření a inicializace, přístup k prvkům, procházení pole, dvourozměrná a zubatá pole, hodnotový a referenční typ |
+| [05 – Manipulace s polem](05-manipulaceSPolem/README.md) | Operace s poli v C# | Třída `Array`, otočení, kopírování, vyplnění, řazení a vyhledávání, změna velikosti, pole jako parametr funkce |
 
 Další projekty a odkazy budou přibývat postupně podle probírané látky.
 
